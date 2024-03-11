@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TodoMatic/static/css/main.94620469.css",
+    "main.js": "/TodoMatic/static/js/main.2d940de6.js",
+    "static/js/592.7f72a991.chunk.js": "/TodoMatic/static/js/592.7f72a991.chunk.js",
+    "index.html": "/TodoMatic/index.html",
+    "main.94620469.css.map": "/TodoMatic/static/css/main.94620469.css.map",
+    "main.2d940de6.js.map": "/TodoMatic/static/js/main.2d940de6.js.map",
+    "592.7f72a991.chunk.js.map": "/TodoMatic/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94620469.css",
+    "static/js/main.2d940de6.js"
+  ]
+}
